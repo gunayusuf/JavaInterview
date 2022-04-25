@@ -1,0 +1,15 @@
+package interviewQuestions10;
+
+public class Q06_AddedOrNotTask {
+    public static void main(String[] args) {
+
+        // create a list of numbers 1, 3, 1, 2, 4, 5, 3 --> 2 duplicates
+        // count how many duplicates we have
+        // find out what are the duplicated values
+
+        // 1, 3, 1, 2, 4, 5, 3 sayılarının bir listesini oluşturun --> 2 kopya
+        // kaç tane kopyamız olduğunu sayin
+        // yinelenen değerlerin ne olduğunu öğrenin
+
+    }
+}
